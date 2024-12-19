@@ -213,7 +213,7 @@ main.homeContainer .purpose p{
     "footer     footer"
     ;
 
-    grid-template-rows: 100px 340px  500px 880px 100px 80px;
+    grid-template-rows: 100px 340px  500px 1080px 100px 80px;
     grid-template-columns: repeat(2, 2fr);
 
     
